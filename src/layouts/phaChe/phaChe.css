@@ -1,0 +1,646 @@
+.thungan {
+    background-image: url('https://login.cyberlearn.vn/static/media/background.b697469b.png');
+    background-position: center;
+    height: 49.5rem;
+}
+
+.khuyen-mai .card-header {
+    /* background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%)!important; */
+    /* background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%) !important; */
+    /* background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%)!important; */
+    background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%)!important;
+}
+
+.thungan .card {
+    -webkit-box-shadow: 4px 6px 9px -3px rgba(0,0,0,0.54); 
+box-shadow: 4px 6px 9px -3px rgba(0,0,0,0.54);
+    font-size: 18px;
+}
+.khuyen-mai .card-body {
+    background-color: rgba(70, 220, 215, 0.144)!important;
+}
+
+.khuyen-mai .ant-input-group  {
+    width: 130% !important;
+}
+
+.ant-tabs-tab {
+    border-radius: 5px !important;
+    -webkit-box-shadow: 4px 4px 5px -3px rgba(0,0,0,0.53); 
+box-shadow: 4px 4px 5px -3px rgba(0,0,0,0.53);
+}
+
+.ant-tabs-tab:hover {
+    -webkit-box-shadow: 4px 4px 17px -3px rgba(0,0,0,0.76); 
+box-shadow: 4px 4px 17px -3px rgba(0,0,0,0.76);
+}
+
+.thungan :first-child .ant-tabs-nav{
+    background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%)!important;
+    padding: 5px 0 !important;
+}
+
+.ant-tabs > .ant-tabs-nav .ant-tabs-nav-wrap{
+    align-items: center;
+}
+
+.ant-tabs-tab{
+    height: 3.5rem !important ;
+    font-size: 1.1rem !important;
+}
+
+.ant-tabs > .ant-tabs-nav .ant-tabs-nav-list{
+    height: 1.5rem;
+}
+.ant-tabs-tab-btn {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+
+}
+
+.ant-tabs > .ant-tabs-nav
+{
+    height: 4.5rem !important;
+    margin: 0 !important;
+}
+
+.ant-tabs-card.ant-tabs-top > .ant-tabs-nav .ant-tabs-tab{
+    padding: 1rem 3rem !important;
+}
+
+.ant-tabs-tab-btn{
+    align-items: center !important;
+}
+
+.ant-tabs-tab-btn i{
+    margin-right: 7px;
+}
+
+.ant-tabs-content.ant-tabs-content-top {
+    padding: 0 2rem;
+}
+
+.ant-tabs > .ant-tabs-nav .ant-tabs-nav-wrap{
+    align-items: baseline;
+}
+
+
+.tab-sodo .ant-tabs > .ant-tabs-nav{
+    height: 40rem !important ;
+}
+
+
+.dropdown-demo .p-dropdown {
+    width: 14rem;
+}
+
+.dropdown-demo .country-item-value img.flag {
+    width: 17px;
+}
+            
+
+.ant-tabs-extra-content{
+    display: flex;
+}
+
+.input-group:not(.has-validation) > .form-control:not(:last-child){
+    height: 100%;
+}
+
+.info{
+    align-items: center;
+}
+
+.menu-item{
+    height: 40rem;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.ant-tabs {
+    margin: 0 !important;
+}
+
+.content-top{
+    height: 36rem;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+
+.order-item{
+    
+}
+.content-bottom{
+    height: 4rem;
+    background-color: rgb(217, 217, 217);
+
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.plush-order .order-left{
+    height: 44.5rem;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-right: 1px solid gray;
+}
+
+.plush-order .ant-tabs-content{
+    padding: 0 !important;
+}
+
+.plush-order .input-group {
+    height: 3rem;
+    margin-top: 10px;
+}
+
+.plush-order .order-right{
+    height: 44.5rem;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.plush-order .ant-tabs-content {
+    height: 40rem !important;
+    overflow: scroll;
+}
+
+
+.plush-order .row{
+    padding: 0 2rem;
+}
+
+.plush-order .info-order {
+    height: 4rem;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.plush-order .info-user{
+    height: 3rem;
+    width: 15%;
+    border-radius: 5px;
+    border: 2px solid gray;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+    margin-left: 2rem;
+    font-size: 15px;
+    -webkit-box-shadow: 2px 5px 15px -1px rgba(0,0,0,0.69); 
+box-shadow: 2px 5px 15px -1px rgba(0,0,0,0.69);
+    
+}
+
+
+.plush-order .order-top{
+    height: 36rem;
+}
+.plush-order .order-bottom{
+    height: 8rem;
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+
+
+
+.button-demo .p-button {
+    margin-right: 0.5rem;
+}
+.button-demo .p-buttonset .p-button {
+    margin-right: 0;
+}
+.button-demo .template .p-button i {
+    line-height: 2.25rem;
+}
+.button-demo .template .p-button.google {
+    background: linear-gradient(to left, var(--purple-600) 50%, var(--purple-700) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #fff;
+    border-color: var(--purple-700);
+}
+.button-demo .template .p-button.google:hover {
+    background-position: left bottom;
+}
+.button-demo .template .p-button.google i {
+    background-color: var(--purple-700);
+}
+.button-demo .template .p-button.google:focus {
+    box-shadow: 0 0 0 1px var(--purple-400);
+}
+.button-demo .template .p-button.youtube {
+    background: linear-gradient(to left, var(--red-600) 50%, var(--red-700) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #fff;
+    border: 2px solid var(--red-700);
+}
+.button-demo .template .p-button.youtube:hover {
+    background-position: left bottom;
+    -webkit-box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82); 
+    box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82);
+}
+.button-demo .template .p-button.youtube i {
+    background-color: var(--red-700);
+    border-radius: 5px;
+}
+.button-demo .template .p-button.youtube:focus {
+    box-shadow: 0 0 0 1px var(--pink-400);
+}
+.button-demo .template .p-button.vimeo {
+    background: linear-gradient(to left, var(--green-500) 50%, var(--green-700) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #000;
+    border:2px solid var(--green-800);
+   
+}
+.button-demo .template .p-button.vimeo:hover {
+    background-position: left bottom;
+    -webkit-box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82); 
+    box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82);
+}
+.button-demo .template .p-button.vimeo i {
+    background-color: var(--green-300);
+}
+.button-demo .template .p-button.vimeo:focus {
+    box-shadow: 0 0 0 1px var(--green-400);
+}
+.button-demo .template .p-button.facebook {
+    background: linear-gradient(to left, var(--indigo-600) 50%, var(--indigo-700) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #fff;
+    border-color: var(--indigo-700);
+}
+.button-demo .template .p-button.facebook:hover {
+    background-position: left bottom;
+}
+.button-demo .template .p-button.facebook i {
+    background-color: var(--indigo-700);
+}
+.button-demo .template .p-button.facebook:focus {
+    box-shadow: 0 0 0 1px var(--indigo-400);
+}
+.button-demo .template .p-button.twitter {
+    background: linear-gradient(to left, var(--blue-400) 50%, var(--blue-500) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #fff;
+    border-color: var(--blue-500);
+}
+.button-demo .template .p-button.twitter:hover {
+    background-position: left bottom;
+}
+.button-demo .template .p-button.twitter i {
+    background-color: var(--blue-500);
+}
+.button-demo .template .p-button.twitter:focus {
+    box-shadow: 0 0 0 1px var(--blue-200);
+}
+.button-demo .template .p-button.slack {
+    background: linear-gradient(to left, var(--orange-400) 50%, var(--orange-500) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #fff;
+    border-color: var(--orange-500);
+}
+.button-demo .template .p-button.slack:hover {
+    background-position: left bottom;
+}
+.button-demo .template .p-button.slack i {
+    background-color: var(--orange-500);
+}
+.button-demo .template .p-button.slack:focus {
+    box-shadow: 0 0 0 1px var(--orange-200);
+}
+.button-demo .template .p-button.amazon {
+    background: linear-gradient(to left, var(--yellow-400) 50%, var(--yellow-500) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #000;
+    border:2px solid var(--yellow-500);
+}
+.button-demo .template .p-button.amazon:hover {
+    background-position: left bottom;
+    -webkit-box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82); 
+    box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82);
+}
+.button-demo .template .p-button.amazon i {
+    background-color: var(--yellow-500);
+}
+.button-demo .template .p-button.amazon:focus {
+    box-shadow: 0 0 0 1px var(--yellow-200);
+}
+.button-demo .template .p-button.discord {
+    background: linear-gradient(to left, var(--bluegray-700) 50%, var(--bluegray-800) 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #fff;
+    border:2px solid var(--bluegray-800);
+}
+.button-demo .template .p-button.discord:hover {
+    background-position: left bottom;
+    -webkit-box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82); 
+    box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.82);
+}
+.button-demo .template .p-button.discord i {
+    background-color: var(--bluegray-800);
+}
+.button-demo .template .p-button.discord:focus {
+    box-shadow: 0 0 0 1px var(--bluegray-500);
+}
+@media screen and (max-width: 960px) {
+    .button-demo .p-button {
+        margin-bottom: 0.5rem;
+    }
+    .button-demo .p-button:not(.p-button-icon-only) {
+        display: flex;
+        width: 100%;
+    }
+    .button-demo .p-buttonset .p-button {
+        margin-bottom: 0;
+    }
+}
+                
+.tab-sodo .map-top{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(223, 223, 223);
+}
+
+.tab-sodo .map-bottom{
+    height: 39rem;
+    width: 100%;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border: 1px solid rgb(194, 192, 192);
+}
+
+.map-top .row{
+    height: 100% !important;
+    align-items: center;
+    padding: 1rem;
+    
+}
+.map-top{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    background-color: rgb(239, 234, 234);
+}
+
+.ban{
+    border: 3px solid orange;
+    width: 45px;
+    height: 35px;
+    font-size: 12px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+    font-weight: 550;
+    font-size: 15px;
+}
+
+.banDangDat{
+    background: #6dee6d;
+    border: 3px  solid green;
+    border-radius: 5px;
+    width: 45px;
+    height: 35px;
+    margin-left: 1rem;
+}
+
+.banDatTruoc {
+    border: 3px solid purple!important;
+    background: purple!important;
+    border-radius: 5px!important;
+    width: 45px;
+    height: 35px;
+    margin-left: 1rem;
+}
+
+.tang .gate{
+
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.tang .gate img{
+    width: 6%;
+}
+
+.tang .hangBan{
+    height: 15rem;
+    justify-content: center;
+}
+.hangBan img {
+    width: 50%;
+}
+
+.hangBan .col-2{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+
+.card-order .card-header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-order{
+    width: 85%;
+    -webkit-box-shadow: 7px 7px 7px 4px rgba(0,0,0,0.48); 
+box-shadow: 7px 7px 7px 4px rgba(0,0,0,0.48);   
+}
+
+.card-order i {
+    font-size: 20px;
+}
+
+
+
+.card-order .minutes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card-order table, th, td {
+    border: 1px solid rgb(222, 220, 220);
+  }
+  .card-order .card-body {
+      padding: 0 !important;
+  }
+  .card-order .card-footer{
+      margin: 0 auto;
+      width: 100%;
+      padding: 0 !important;
+  }
+
+  .card-order .card-footer .col-3 {
+      text-align: center;
+     
+  }
+
+  .card-order .card-footer table {
+    width: 100%;
+}
+
+.card-order .card-footer th {
+    text-align: center;
+    padding: 0.7rem 0;
+}
+
+.tang img {
+    
+}
+
+
+
+  .order-item:hover {
+    margin-top: -.8rem;
+    transition: 0.3s;
+  }
+
+  .order-item{
+      cursor: pointer;
+  }
+.tab-border {
+    margin-top: 5px;
+    background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%);
+}
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #8686f3!important;
+}
+
+.ant-tabs-card.ant-tabs-top > .ant-tabs-nav .ant-tabs-tab + .ant-tabs-tab{
+    font-weight: 600 !important;
+}
+
+.ant-tabs-card.ant-tabs-top > .ant-tabs-nav .ant-tabs-tab + .ant-tabs-tab:hover{
+    color: #8686f3!important;
+}
+
+
+.entrance img{
+    /* width: 100%; */
+    width: 5rem;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+.km-iteam{
+    background-color: #46dcd730;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.km-iteam:hover{
+    background-color: #46dcd78d;
+}
+
+.km {
+    height: 28rem;
+    overflow: scroll;
+}
+
+.khuyen-mai{
+    border-right: 2px solid gray;
+}
+
+.tt-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.tt-info h5 {
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    box-shadow: 2px 5px 15px -1px rgb(0 0 0 / 39%);
+
+}
+
+.pha-che.card .card-header{
+    background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%)!important;
+}
+
+.pha-che {
+    height: 44rem !important;
+    background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%)!important;
+}
+.pha-che .card-body {
+    overflow: scroll;
+}
+
+.pha-che .card {
+    height: 33rem;
+}
+
+.pha-che .card-header {
+    background: linear-gradient(117.76deg,hsla(0,0%,100%,.6) -7.21%,hsla(0,0%,100%,.3) 118.08%)!important;
+}
+
+.pha-che .xac-nhan {
+    height: 9rem;
+    background-color: rgba(128, 128, 128, 0.255);
+    padding: 1rem;
+    
+}
+
+
+.field-radiobutton{
+    padding: 1rem;
+    font-size: 15px;
+    font-weight: 300 !important;
+    background-color: #46dcd730;
+    border-radius: 5px;
+}
+
+.field-radiobutton:hover{
+    background-color: #46dcd78d;
+}
+
+
+
+
+.phache{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.hanghoa{
+    height: 41rem !important;
+}
+.hangBan .card-body{
+    height: 35rem !important;
+    overflow: scroll;
+}
+
+.hangBan .card-header{
+    height: 6rem;
+    background :white;
+}
+

@@ -1,0 +1,10 @@
+.card-order{
+    background-color: rgba(70,220,216,var(--tw-bg-opacity))!important;
+    color: #222260 !important;
+}
+
+.bill-card{
+    height: 35rem;
+    overflow: scroll;
+}
+

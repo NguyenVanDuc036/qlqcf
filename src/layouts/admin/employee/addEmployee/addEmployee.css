@@ -1,0 +1,77 @@
+.form-control-sidebar {
+    background-color:rgba(255, 255, 255, 0.512) ;
+    border: 1px solid #56606a;
+}
+ .btn-sidebar{
+    background-color: #3f474e;
+    border: 1px solid #56606a;
+    color: #fff;
+}
+
+.sidebar-search-results .list-group {
+    width: 251px;
+}
+
+.content {
+    background-color: #f2f3f5;
+}
+
+
+.card-body{
+    background-color: #fff;
+    padding: 4rem;
+    
+    border-bottom-left-radius: .5rem;
+    border-bottom-left-radius: .5rem;
+}
+
+.card-header {
+    color: gray;
+    background-color: #a6a8a9;
+    border-top-left-radius: .5rem;
+    border-top-left-radius: .5rem;
+    background-color: #191c24;
+    border-color: #4b545c;
+}
+.card-header h3 {
+    color: #eeeaea;
+}
+.content .card {
+    -webkit-box-shadow: 10px 10px 11px -1px rgba(0,0,0,0.52);
+    -moz-box-shadow: 10px 10px 11px -1px rgba(0,0,0,0.52);
+    box-shadow: 10px 10px 11px -1px rgba(0,0,0,0.52);
+    width: 60%;
+}
+
+
+.ant-form-item {
+    margin-bottom: 5px !important;
+}
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    height: 102% !important;
+}
+
+.btn-themNhanVien{
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid  white !important;
+    padding: 10px !important;
+    
+    background-color: #500aac !important;
+    border-radius: 15px!important;
+    transition: .2s !important;
+    color: white;
+    font-weight: 500;
+    height: 60px !important;
+    padding: 70px;
+    font-size: 17px;
+    width: 15rem;
+    transition: 0.1s;
+}
+
+.btn-themNhanVien:hover{
+    border: 3px solid  gray !important;
+    -webkit-box-shadow: 3px 5px 15px 0px rgba(0,0,0,0.7); 
+box-shadow: 3px 5px 15px 0px rgba(0,0,0,0.7);
+}

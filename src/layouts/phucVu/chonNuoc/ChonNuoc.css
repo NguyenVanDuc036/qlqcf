@@ -1,0 +1,15 @@
+.order-table {
+    border: none !important;
+}
+
+.order-table  thead {
+    background-color: rgb(233, 232, 232);
+}
+
+.btn-sl{
+    border: 1px solid gray !important;
+}
+
+.plush-order .order-top {
+    overflow: scroll;
+}

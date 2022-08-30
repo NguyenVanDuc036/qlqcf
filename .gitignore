@@ -1,0 +1,2 @@
+# file này sẽ liệt kê các folder của dự án không muốn commit git 
+node_modules/

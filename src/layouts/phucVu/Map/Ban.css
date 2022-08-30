@@ -1,0 +1,24 @@
+.btn-ban{
+    background: none;
+    border: none;
+}
+
+.banDangPhucVu {
+    cursor: no-drop ;
+    position: relative;
+}
+
+.ant-dropdown-menu {
+    position: absolute;
+    width: 68%;
+    top: 1.7rem !important;
+}
+
+.banDangBan{
+    border: 3px solid orangered!important;
+    background: rgba(255, 166, 0, 0.352)!important;
+    border-radius: 5px!important;
+    width: 45px;
+    height: 35px;
+    margin-left: 1rem;
+}
